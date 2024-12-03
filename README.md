@@ -73,11 +73,6 @@ This project demonstrates the use of FreeRTOS on an STM32F401 microcontroller to
 
 ---
 
-### Example Output
-- **Green LED (PA5)**: Toggles every 500 ms.
-- **Red LED (PB0)**: Toggles every 100 ms and preempts the Green LED Task.
-- **Blue LED (PB7)**: Indicates task interference during shared data access.
-
 ## Circuit Form
 ![rangkaian task indicator](https://github.com/user-attachments/assets/2adc1669-8599-47b5-87c8-a6995886f812)
 
