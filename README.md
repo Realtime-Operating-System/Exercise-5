@@ -1,6 +1,6 @@
 # STM32 FreeRTOS Demonstrate access contention problems when using shared resources in a multitasking system
 
-This project demonstrates the use of FreeRTOS on an STM32F401 microcontroller to implement priority-based preemptive multitasking. Two tasks control the blinking of a green and red LED, while a blue LED is used to indicate task interference during shared data access.
+This exercise demonstrates the use of FreeRTOS on an STM32F401 microcontroller to implement priority-based preemptive multitasking. Two tasks control the blinking of a green and red LED, while a blue LED is used to indicate task interference during shared data access.
 
 ## Features
 - **RTOS**: FreeRTOS with priority-based preemptive scheduling.
