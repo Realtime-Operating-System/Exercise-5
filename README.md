@@ -74,7 +74,7 @@ This project demonstrates the use of FreeRTOS on an STM32F401 microcontroller to
 ---
 
 ## Circuit Form
-![rangkaian task indicator](https://github.com/user-attachments/assets/2adc1669-8599-47b5-87c8-a6995886f812)
+<img width="500" alt="taskindikator" src="https://github.com/user-attachments/assets/2adc1669-8599-47b5-87c8-a6995886f812">
 
 ## Demo Video
 [task_indicatorr2](https://github.com/user-attachments/assets/c91b375b-0913-42cc-b687-aafcee96cc7c)
